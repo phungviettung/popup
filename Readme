@@ -1,0 +1,8 @@
+- Màn hình desktop >= 1366
+- Khi ấn vào 1 người dùng trong bảng users:
+- Hiển thị 1 modal popup, bám biên phải và độ cao bằng màn hình hiện tại
+- Hiển thị trạng thái loading
+- Load dữ liệu vào bảng
+- Ẩn nút loading
+- Khi ấn vào nút X thì ẩn modal popup
+- Sample data bằng JSON tự tạo
